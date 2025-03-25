@@ -38,8 +38,8 @@ I'm a passionate developer who loves creating projects and exploring tech!
 ## 📊 GitHub Stats
 
 <p align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mowreee&show_icons=true&theme=tokyonight" />  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mowreee&theme=tokyonight" />  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hanni0101&show_icons=true&theme=tokyonight" />  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hanni0101&theme=tokyonight" />  
 </p>
 
 ## 🛠️ Tech Stack
