@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/1c/4a/45/1c4a4596912277e7b3b209f1ccf49927.gif" width="800"/>
 </p>
 
-# 🕹️ <span style="font-family: 'Press Start 2P', cursive;">Marc Christian C. Delos Santos</span> 
+# 🕹️ <span style="font-family: 'Press Start 2P', cursive;">Rohann Harold N. Mondiguing</span> 
 
 I'm a passionate developer who loves creating projects and exploring tech!
 
