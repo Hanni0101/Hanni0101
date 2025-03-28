@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/1c/4a/45/1c4a4596912277e7b3b209f1ccf49927.gif" width="800"/>
+  <img src="https://ph.pinterest.com/fbe526ca-e1db-4ffb-8980-b8f896aaf719" width="800"/>
 </p>
 
 # 🕹️ <span style="font-family: 'Press Start 2P', cursive;">Rohann Harold N. Mondiguing</span> 
