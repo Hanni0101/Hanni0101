@@ -4,15 +4,6 @@
 
 # 🕹️ <span style="font-family: 'Press Start 2P', cursive;">Rohann Harold N. Mondiguing</span> 
 
-I'm a passionate developer who loves creating projects and exploring tech!
-
-- 🔹 My focus: **.NET, AI, and Cloud Computing**, but I'm always open to learning new things.  
-- 💻 I'm currently working with **C#, ASP.NET, and SQL Server**.  
-
-## 📚 Technologies I Use
-- 🚀 **Proficient In:** Java, HTML, CSS, Vite React 
-- 📘 **Still Learning:** C#, ASP.NET, .NET Core, SQL Server
-
 ## 🔗 Connect With Me
 <p align="center"> 
   <a href="https://facebook.com/yourprofile"> 
@@ -37,7 +28,6 @@ I'm a passionate developer who loves creating projects and exploring tech!
                    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/> 
                    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/> 
 </p>
-
 
 <picture align="center">
   <source
