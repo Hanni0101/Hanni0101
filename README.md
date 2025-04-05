@@ -38,9 +38,6 @@ I'm a passionate developer who loves creating projects and exploring tech!
                    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/> 
 </p>
 
-## 🎶 Now Playing on Spotify
-
-<p align="center"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=31m2exjv3uwdl6dl2vb65mtotuau" width="500"/> </p>
 
 <picture align="center">
   <source
