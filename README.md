@@ -18,20 +18,8 @@ I'm a passionate developer who loves creating projects and exploring tech!
   <a href="https://facebook.com/yourprofile"> 
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> 
   </a> 
-  <a href="https://twitter.com/yourprofile"> 
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> 
-  </a> 
   <a href="https://discord.com/users/800746704646307861"> 
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> 
-  </a> 
-  <a href="https://open.spotify.com/user/31m2exjv3uwdl6dl2vb65mtotuau?si=b438fc4072994704"> 
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/> 
-  </a> 
-  <a href="https://steamcommunity.com/profiles/76561199729594197/"> 
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/> 
-  </a> 
-  <a href="https://www.riotgames.com/en"> 
-    <img src="https://img.shields.io/badge/Riot%20Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white"/> 
   </a> 
 </p>
 
