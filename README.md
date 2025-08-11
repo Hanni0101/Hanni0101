@@ -44,5 +44,6 @@
   />
 </picture>
 <p align="center">
-  <img src="https://i.pinimg.com/originals/c8/e1/3d/c8e13dbd21915f6a925002a284ef7824.gif" width="800"/>
+  <img src="https://i.redd.it/flma1g23qzu71.gif" width="800"/>
 </p>
+
